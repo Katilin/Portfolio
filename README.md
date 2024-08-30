@@ -1,5 +1,3 @@
-# Portfolio
-
 # Aspiring Cybersecurity Analyst
 
 ## Education
